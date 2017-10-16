@@ -18,7 +18,7 @@ List of repositories for computer science students
 
 4. [Algorithms](https://github.com/keon/algorithms): Minimal examples of data structures and algorithms in Python
 
-5. [Data Structure And Algorithmic Thinking With Python] : By Narasimha Karumanchi from careermonk
+5. [Data Structure And Algorithmic Thinking With Python](https://github.com/careermonk/DataStructureAndAlgorithmicThinkingWithPython) : By Narasimha Karumanchi from careermonk
 
 
 ## Machine Learning
