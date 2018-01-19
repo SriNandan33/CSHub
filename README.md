@@ -8,6 +8,8 @@ List of repositories for computer science students
 
 3. [Interview](https://github.com/andreis/interview): Everything you need to prepare for your technical interview
 
+4. [awesome-interview-questions](https://github.com/MaximAbramchuck/awesome-interview-questions):A curated awesome list of lists of interview questions.
+
 ## Data structures and Algorithms
 
 1. [Data Structures using Python](https://github.com/OmkarPathak/Data-Structures-using-Python): This repository mainly aims at implementation of various Data Structures using Python.
@@ -17,6 +19,8 @@ List of repositories for computer science students
 3. [Algorithms](https://github.com/nryoung/algorithms): An educational library of algorithms in Python
 
 4. [Algorithms](https://github.com/keon/algorithms): Minimal examples of data structures and algorithms in Python
+
+5. [Awesome-algorithms](https://github.com/tayllan/awesome-algorithms): A curated list of awesome places to learn and/or practice algorithms.
 
 5. [Data Structure And Algorithmic Thinking With Python](https://github.com/careermonk/DataStructureAndAlgorithmicThinkingWithPython) : By Narasimha Karumanchi from careermonk
 
